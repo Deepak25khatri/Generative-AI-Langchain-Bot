@@ -7,9 +7,6 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.llms import Cohere
 from chatbot_style import css, bot_template, user_template
-import json
-import os
-from dotenv import load_dotenv
 import utils
 
 st.title("Chat with multiple PDFs 👋🏻")
