@@ -9,3 +9,4 @@ pypdf
 sentence-transformers
 docarray
 SQLAlchemy
+PyPDF2
