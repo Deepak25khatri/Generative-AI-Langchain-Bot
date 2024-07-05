@@ -10,3 +10,4 @@ sentence-transformers
 docarray
 SQLAlchemy
 PyPDF2
+faiss-cpu
