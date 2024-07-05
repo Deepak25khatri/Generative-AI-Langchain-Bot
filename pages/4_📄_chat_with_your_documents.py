@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_lottie import st_lottie
 import PyPDF2 as pdf
 from langchain.text_splitter import CharacterTextSplitter as ct
 from langchain.embeddings.cohere import CohereEmbeddings

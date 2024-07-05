@@ -1,6 +1,4 @@
 import os
-import cohere
-import random
 import streamlit as st
 from datetime import datetime
 
